@@ -1,0 +1,1614 @@
+{
+  "members": {
+    "413624": {
+      "stars": 10,
+      "name": "Thomas Andrade",
+      "id": "413624",
+      "last_star_ts": "1544047222",
+      "global_score": 0,
+      "local_score": 356,
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "get_star_ts": "1543740383"
+          },
+          "2": {
+            "get_star_ts": "1543740887"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543923199"
+          },
+          "1": {
+            "get_star_ts": "1543922410"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543706276"
+          },
+          "1": {
+            "get_star_ts": "1543701101"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1544047222"
+          },
+          "1": {
+            "get_star_ts": "1544047111"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543823873"
+          },
+          "1": {
+            "get_star_ts": "1543823751"
+          }
+        }
+      }
+    },
+    "220124": {
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "get_star_ts": "1543871140"
+          },
+          "1": {
+            "get_star_ts": "1543863089"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543774880"
+          },
+          "2": {
+            "get_star_ts": "1543777067"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543780846"
+          },
+          "1": {
+            "get_star_ts": "1543779409"
+          }
+        }
+      },
+      "local_score": 170,
+      "global_score": 0,
+      "id": "220124",
+      "last_star_ts": "1543871140",
+      "stars": 6,
+      "name": "dbgeek"
+    },
+    "213641": {
+      "stars": 0,
+      "name": "Ivan Pedersen",
+      "id": "213641",
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0
+    },
+    "369936": {
+      "local_score": 204,
+      "global_score": 0,
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "get_star_ts": "1543835418"
+          },
+          "1": {
+            "get_star_ts": "1543833141"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543664837"
+          },
+          "1": {
+            "get_star_ts": "1543660945"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543782810"
+          },
+          "2": {
+            "get_star_ts": "1543784040"
+          }
+        }
+      },
+      "stars": 6,
+      "name": "Willy Ovalle",
+      "id": "369936",
+      "last_star_ts": "1543835418"
+    },
+    "405083": {
+      "name": "Victor Arias",
+      "stars": 6,
+      "id": "405083",
+      "last_star_ts": "1543874306",
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": "1543692435"
+          },
+          "1": {
+            "get_star_ts": "1543691172"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543769646"
+          },
+          "1": {
+            "get_star_ts": "1543752556"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543871525"
+          },
+          "2": {
+            "get_star_ts": "1543874306"
+          }
+        }
+      },
+      "local_score": 191,
+      "global_score": 0
+    },
+    "165393": {
+      "local_score": 513,
+      "global_score": 0,
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "get_star_ts": "1543818237"
+          },
+          "1": {
+            "get_star_ts": "1543817248"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1543988609"
+          },
+          "2": {
+            "get_star_ts": "1543989792"
+          }
+        },
+        "6": {
+          "2": {
+            "get_star_ts": "1544082314"
+          },
+          "1": {
+            "get_star_ts": "1544081171"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543641780"
+          },
+          "2": {
+            "get_star_ts": "1543643107"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543730221"
+          },
+          "2": {
+            "get_star_ts": "1543735557"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543924678"
+          },
+          "2": {
+            "get_star_ts": "1543929303"
+          }
+        }
+      },
+      "id": "165393",
+      "last_star_ts": "1544082314",
+      "stars": 12,
+      "name": "nicevo"
+    },
+    "368472": {
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {},
+      "name": "pecke01",
+      "stars": 0,
+      "id": "368472",
+      "last_star_ts": 0
+    },
+    "386706": {
+      "name": "AnassZaki",
+      "stars": 10,
+      "id": "386706",
+      "last_star_ts": "1544028977",
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": "1543787238"
+          },
+          "1": {
+            "get_star_ts": "1543785617"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1544028623"
+          },
+          "2": {
+            "get_star_ts": "1544028646"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543653652"
+          },
+          "1": {
+            "get_star_ts": "1543648276"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1544028977"
+          },
+          "1": {
+            "get_star_ts": "1544028860"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1544027214"
+          },
+          "1": {
+            "get_star_ts": "1544027197"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 307
+    },
+    "260016": {
+      "name": "cholmboe",
+      "stars": 0,
+      "id": "260016",
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0
+    },
+    "208417": {
+      "completion_day_level": {},
+      "global_score": 0,
+      "local_score": 0,
+      "id": "208417",
+      "last_star_ts": 0,
+      "name": null,
+      "stars": 0
+    },
+    "391617": {
+      "completion_day_level": {
+        "5": {
+          "1": {
+            "get_star_ts": "1543992198"
+          },
+          "2": {
+            "get_star_ts": "1543992755"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543818993"
+          },
+          "1": {
+            "get_star_ts": "1543818632"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543909050"
+          },
+          "1": {
+            "get_star_ts": "1543908710"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543739397"
+          },
+          "1": {
+            "get_star_ts": "1543737923"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543654395"
+          },
+          "1": {
+            "get_star_ts": "1543653432"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 418,
+      "stars": 10,
+      "name": "Markus Peetzen",
+      "id": "391617",
+      "last_star_ts": "1543992755"
+    },
+    "382431": {
+      "last_star_ts": "1544021320",
+      "id": "382431",
+      "stars": 6,
+      "name": "jbf",
+      "local_score": 153,
+      "global_score": 0,
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1544015809"
+          },
+          "2": {
+            "get_star_ts": "1544021320"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543743095"
+          },
+          "1": {
+            "get_star_ts": "1543737900"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543840817"
+          },
+          "1": {
+            "get_star_ts": "1543782705"
+          }
+        }
+      }
+    },
+    "369073": {
+      "local_score": 129,
+      "global_score": 0,
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": "1543771623"
+          },
+          "1": {
+            "get_star_ts": "1543751741"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543708510"
+          },
+          "1": {
+            "get_star_ts": "1543705181"
+          }
+        }
+      },
+      "name": "Plínio Balduino",
+      "stars": 4,
+      "last_star_ts": "1543771623",
+      "id": "369073"
+    },
+    "463260": {
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543937997"
+          },
+          "2": {
+            "get_star_ts": "1543938557"
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": "1544078017"
+          },
+          "2": {
+            "get_star_ts": "1544078474"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1543986738"
+          },
+          "2": {
+            "get_star_ts": "1543987356"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543934351"
+          },
+          "1": {
+            "get_star_ts": "1543932881"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543936112"
+          },
+          "1": {
+            "get_star_ts": "1543935577"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543959652"
+          },
+          "1": {
+            "get_star_ts": "1543959422"
+          }
+        }
+      },
+      "local_score": 376,
+      "global_score": 0,
+      "name": "Ali Rabiee",
+      "stars": 12,
+      "last_star_ts": "1544078474",
+      "id": "463260"
+    },
+    "203456": {
+      "global_score": 0,
+      "local_score": 110,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1543761549"
+          },
+          "2": {
+            "get_star_ts": "1543767111"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543787547"
+          },
+          "1": {
+            "get_star_ts": "1543779560"
+          }
+        }
+      },
+      "name": "Sara Fransson",
+      "stars": 4,
+      "last_star_ts": "1543787547",
+      "id": "203456"
+    },
+    "242364": {
+      "id": "242364",
+      "last_star_ts": 0,
+      "name": "Bernat Fages",
+      "stars": 0,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0
+    },
+    "189451": {
+      "global_score": 0,
+      "local_score": 137,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": "1543688376"
+          },
+          "1": {
+            "get_star_ts": "1543684552"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543773158"
+          },
+          "1": {
+            "get_star_ts": "1543756810"
+          }
+        }
+      },
+      "last_star_ts": "1543773158",
+      "id": "189451",
+      "name": "Erika Saadi",
+      "stars": 4
+    },
+    "449037": {
+      "global_score": 0,
+      "local_score": 268,
+      "completion_day_level": {
+        "5": {
+          "2": {
+            "get_star_ts": "1544043104"
+          },
+          "1": {
+            "get_star_ts": "1544042255"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543879072"
+          },
+          "1": {
+            "get_star_ts": "1543853765"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543879738"
+          },
+          "2": {
+            "get_star_ts": "1543880696"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543966551"
+          },
+          "2": {
+            "get_star_ts": "1543967172"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543864830"
+          },
+          "2": {
+            "get_star_ts": "1543878527"
+          }
+        }
+      },
+      "name": "Ercument Kisa",
+      "stars": 10,
+      "id": "449037",
+      "last_star_ts": "1544043104"
+    },
+    "314807": {
+      "id": "314807",
+      "last_star_ts": "1544076380",
+      "name": "OussaZaki",
+      "stars": 12,
+      "local_score": 546,
+      "global_score": 0,
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543816013"
+          },
+          "2": {
+            "get_star_ts": "1543817794"
+          }
+        },
+        "6": {
+          "2": {
+            "get_star_ts": "1544076380"
+          },
+          "1": {
+            "get_star_ts": "1544076217"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1543989895"
+          },
+          "2": {
+            "get_star_ts": "1543990085"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543643293"
+          },
+          "1": {
+            "get_star_ts": "1543641908"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543903141"
+          },
+          "1": {
+            "get_star_ts": "1543903129"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543727806"
+          },
+          "2": {
+            "get_star_ts": "1543729103"
+          }
+        }
+      }
+    },
+    "368967": {
+      "global_score": 0,
+      "local_score": 543,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1543655135"
+          },
+          "2": {
+            "get_star_ts": "1543655791"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543729195"
+          },
+          "2": {
+            "get_star_ts": "1543729946"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543902189"
+          },
+          "2": {
+            "get_star_ts": "1543902782"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543817530"
+          },
+          "2": {
+            "get_star_ts": "1543817679"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1543987462"
+          },
+          "1": {
+            "get_star_ts": "1543987146"
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": "1544076631"
+          },
+          "2": {
+            "get_star_ts": "1544077235"
+          }
+        }
+      },
+      "stars": 12,
+      "name": "Dumitru Postoronca",
+      "last_star_ts": "1544077235",
+      "id": "368967"
+    },
+    "165461": {
+      "name": "Zhivko Lazarov",
+      "stars": 0,
+      "last_star_ts": 0,
+      "id": "165461",
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {}
+    },
+    "33370": {
+      "global_score": 0,
+      "local_score": 309,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1543690025"
+          },
+          "2": {
+            "get_star_ts": "1543691219"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543941778"
+          },
+          "2": {
+            "get_star_ts": "1543942115"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543744140"
+          },
+          "2": {
+            "get_star_ts": "1543745778"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543853559"
+          },
+          "2": {
+            "get_star_ts": "1543854584"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1544050322"
+          }
+        }
+      },
+      "stars": 9,
+      "name": "onno-vos-dev",
+      "id": "33370",
+      "last_star_ts": "1544050322"
+    },
+    "373160": {
+      "name": "Francisco Pereira",
+      "stars": 1,
+      "id": "373160",
+      "last_star_ts": "1544053641",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1544053641"
+          }
+        }
+      },
+      "local_score": 16,
+      "global_score": 0
+    },
+    "232530": {
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {},
+      "id": "232530",
+      "last_star_ts": 0,
+      "stars": 0,
+      "name": "Rafał Paliwoda"
+    },
+    "440175": {
+      "name": "Patrick Mariot",
+      "stars": 10,
+      "id": "440175",
+      "last_star_ts": "1544001421",
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "get_star_ts": "1543849478"
+          },
+          "1": {
+            "get_star_ts": "1543840642"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1544000807"
+          },
+          "2": {
+            "get_star_ts": "1544001421"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543833844"
+          },
+          "1": {
+            "get_star_ts": "1543831573"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543920560"
+          },
+          "2": {
+            "get_star_ts": "1543921197"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543835705"
+          },
+          "2": {
+            "get_star_ts": "1543839182"
+          }
+        }
+      },
+      "local_score": 306,
+      "global_score": 0
+    },
+    "116826": {
+      "name": "Anders Lindgren",
+      "stars": 0,
+      "last_star_ts": 0,
+      "id": "116826",
+      "completion_day_level": {},
+      "global_score": 0,
+      "local_score": 0
+    },
+    "27929": {
+      "local_score": 163,
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": "1543824927"
+          },
+          "1": {
+            "get_star_ts": "1543823580"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543825828"
+          },
+          "2": {
+            "get_star_ts": "1543827473"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543839682"
+          },
+          "2": {
+            "get_star_ts": "1543839979"
+          }
+        }
+      },
+      "stars": 6,
+      "name": "neque",
+      "last_star_ts": "1543839979",
+      "id": "27929"
+    },
+    "35668": {
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543860706"
+          },
+          "2": {
+            "get_star_ts": "1543865200"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1543996442"
+          },
+          "1": {
+            "get_star_ts": "1543995446"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543645414"
+          },
+          "1": {
+            "get_star_ts": "1543644362"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543731797"
+          },
+          "2": {
+            "get_star_ts": "1543749103"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543910767"
+          },
+          "1": {
+            "get_star_ts": "1543909690"
+          }
+        }
+      },
+      "local_score": 393,
+      "global_score": 0,
+      "name": "Alexander Korling",
+      "stars": 10,
+      "last_star_ts": "1543996442",
+      "id": "35668"
+    },
+    "382371": {
+      "completion_day_level": {
+        "2": {
+          "1": {
+            "get_star_ts": "1543763183"
+          },
+          "2": {
+            "get_star_ts": "1543766271"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543909103"
+          },
+          "1": {
+            "get_star_ts": "1543908690"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543758236"
+          },
+          "2": {
+            "get_star_ts": "1543760578"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1543991092"
+          },
+          "1": {
+            "get_star_ts": "1543989293"
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": "1544077379"
+          },
+          "2": {
+            "get_star_ts": "1544078823"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543820452"
+          },
+          "1": {
+            "get_star_ts": "1543816391"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 467,
+      "name": "Nikolai Vlasov",
+      "stars": 12,
+      "id": "382371",
+      "last_star_ts": "1544078823"
+    },
+    "389358": {
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1543640501"
+          },
+          "2": {
+            "get_star_ts": "1543641092"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543901677"
+          },
+          "2": {
+            "get_star_ts": "1543901960"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543740155"
+          },
+          "1": {
+            "get_star_ts": "1543739955"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543832592"
+          },
+          "1": {
+            "get_star_ts": "1543831131"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1543988684"
+          },
+          "1": {
+            "get_star_ts": "1543987270"
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": "1544075391"
+          },
+          "2": {
+            "get_star_ts": "1544076271"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 537,
+      "stars": 12,
+      "name": "Zhivko Lazarov",
+      "id": "389358",
+      "last_star_ts": "1544076271"
+    },
+    "191278": {
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543827983"
+          },
+          "2": {
+            "get_star_ts": "1543828566"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1544003894"
+          },
+          "1": {
+            "get_star_ts": "1544003191"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543786812"
+          },
+          "2": {
+            "get_star_ts": "1543787245"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543918236"
+          },
+          "2": {
+            "get_star_ts": "1543918369"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543789152"
+          },
+          "1": {
+            "get_star_ts": "1543788309"
+          }
+        }
+      },
+      "local_score": 328,
+      "global_score": 0,
+      "stars": 10,
+      "name": "Dominic Ginger",
+      "last_star_ts": "1544003894",
+      "id": "191278"
+    },
+    "42422": {
+      "last_star_ts": "1544050440",
+      "id": "42422",
+      "stars": 10,
+      "name": "Martin Svalin",
+      "completion_day_level": {
+        "1": {
+          "2": {
+            "get_star_ts": "1543693609"
+          },
+          "1": {
+            "get_star_ts": "1543656852"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543786117"
+          },
+          "2": {
+            "get_star_ts": "1543788509"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1544024341"
+          },
+          "1": {
+            "get_star_ts": "1544023282"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543963274"
+          },
+          "2": {
+            "get_star_ts": "1543963988"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1544047453"
+          },
+          "2": {
+            "get_star_ts": "1544050440"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 287
+    },
+    "12900": {
+      "stars": 0,
+      "name": "Alex Szabo",
+      "last_star_ts": 0,
+      "id": "12900",
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {}
+    },
+    "368426": {
+      "last_star_ts": 0,
+      "id": "368426",
+      "name": "Christopher Wendels",
+      "stars": 0,
+      "completion_day_level": {},
+      "local_score": 0,
+      "global_score": 0
+    },
+    "368947": {
+      "last_star_ts": "1543995117",
+      "id": "368947",
+      "stars": 6,
+      "name": "Alexander Lindholm",
+      "global_score": 0,
+      "local_score": 131,
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": "1543914826"
+          },
+          "1": {
+            "get_star_ts": "1543909874"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543842807"
+          },
+          "1": {
+            "get_star_ts": "1543823296"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543995117"
+          },
+          "1": {
+            "get_star_ts": "1543993668"
+          }
+        }
+      }
+    },
+    "385386": {
+      "global_score": 0,
+      "local_score": 415,
+      "completion_day_level": {
+        "3": {
+          "2": {
+            "get_star_ts": "1543829201"
+          },
+          "1": {
+            "get_star_ts": "1543826581"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1543988892"
+          },
+          "2": {
+            "get_star_ts": "1543989073"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543656129"
+          },
+          "1": {
+            "get_star_ts": "1543655210"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543911871"
+          },
+          "1": {
+            "get_star_ts": "1543911302"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543734076"
+          },
+          "1": {
+            "get_star_ts": "1543733420"
+          }
+        }
+      },
+      "id": "385386",
+      "last_star_ts": "1543989073",
+      "stars": 10,
+      "name": "Daniel Szoboszlay"
+    },
+    "195782": {
+      "completion_day_level": {},
+      "global_score": 0,
+      "local_score": 0,
+      "id": "195782",
+      "last_star_ts": 0,
+      "stars": 0,
+      "name": "Bert Oja"
+    },
+    "240455": {
+      "name": "jlordiales",
+      "stars": 10,
+      "last_star_ts": "1544029648",
+      "id": "240455",
+      "completion_day_level": {
+        "5": {
+          "2": {
+            "get_star_ts": "1544029648"
+          },
+          "1": {
+            "get_star_ts": "1544024245"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1543857112"
+          },
+          "2": {
+            "get_star_ts": "1543858063"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543773911"
+          },
+          "1": {
+            "get_star_ts": "1543764489"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543971694"
+          },
+          "2": {
+            "get_star_ts": "1543972840"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543641142"
+          },
+          "2": {
+            "get_star_ts": "1543641821"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 349
+    },
+    "368406": {
+      "local_score": 222,
+      "global_score": 0,
+      "completion_day_level": {
+        "5": {
+          "1": {
+            "get_star_ts": "1544054113"
+          },
+          "2": {
+            "get_star_ts": "1544054776"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1544047637"
+          },
+          "1": {
+            "get_star_ts": "1544047224"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1544051596"
+          },
+          "2": {
+            "get_star_ts": "1544051791"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1544045500"
+          },
+          "1": {
+            "get_star_ts": "1544042763"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1544034631"
+          },
+          "2": {
+            "get_star_ts": "1544041647"
+          }
+        }
+      },
+      "last_star_ts": "1544054776",
+      "id": "368406",
+      "name": null,
+      "stars": 10
+    },
+    "330999": {
+      "name": "Elspeth Andrell",
+      "stars": 0,
+      "last_star_ts": 0,
+      "id": "330999",
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {}
+    },
+    "397059": {
+      "id": "397059",
+      "last_star_ts": "1544076517",
+      "name": "ismailkuruca",
+      "stars": 12,
+      "completion_day_level": {
+        "2": {
+          "2": {
+            "get_star_ts": "1543735436"
+          },
+          "1": {
+            "get_star_ts": "1543734651"
+          }
+        },
+        "4": {
+          "2": {
+            "get_star_ts": "1543905370"
+          },
+          "1": {
+            "get_star_ts": "1543903070"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543663413"
+          },
+          "1": {
+            "get_star_ts": "1543662922"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1543987646"
+          },
+          "1": {
+            "get_star_ts": "1543987456"
+          }
+        },
+        "6": {
+          "2": {
+            "get_star_ts": "1544076517"
+          },
+          "1": {
+            "get_star_ts": "1544075670"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543816377"
+          },
+          "1": {
+            "get_star_ts": "1543815360"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 530
+    },
+    "476742": {
+      "stars": 0,
+      "name": "Lilach",
+      "id": "476742",
+      "last_star_ts": 0,
+      "global_score": 0,
+      "local_score": 0,
+      "completion_day_level": {}
+    },
+    "11285": {
+      "stars": 1,
+      "name": "Tommy Brunn",
+      "last_star_ts": "1543765102",
+      "id": "11285",
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1543765102"
+          }
+        }
+      },
+      "local_score": 25,
+      "global_score": 0
+    },
+    "14668": {
+      "last_star_ts": "1544001953",
+      "id": "14668",
+      "stars": 10,
+      "name": "Jesper Eskilson",
+      "global_score": 0,
+      "local_score": 382,
+      "completion_day_level": {
+        "4": {
+          "2": {
+            "get_star_ts": "1543918926"
+          },
+          "1": {
+            "get_star_ts": "1543914851"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543759164"
+          },
+          "2": {
+            "get_star_ts": "1543760000"
+          }
+        },
+        "1": {
+          "2": {
+            "get_star_ts": "1543655883"
+          },
+          "1": {
+            "get_star_ts": "1543653202"
+          }
+        },
+        "5": {
+          "2": {
+            "get_star_ts": "1544001953"
+          },
+          "1": {
+            "get_star_ts": "1544000717"
+          }
+        },
+        "3": {
+          "2": {
+            "get_star_ts": "1543829292"
+          },
+          "1": {
+            "get_star_ts": "1543828106"
+          }
+        }
+      }
+    },
+    "274378": {
+      "stars": 10,
+      "name": "pschoffer",
+      "last_star_ts": "1544021185",
+      "id": "274378",
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543855917"
+          },
+          "2": {
+            "get_star_ts": "1543859191"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1544007457"
+          },
+          "2": {
+            "get_star_ts": "1544021185"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543650027"
+          },
+          "2": {
+            "get_star_ts": "1543663190"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543992894"
+          },
+          "2": {
+            "get_star_ts": "1543994896"
+          }
+        },
+        "2": {
+          "2": {
+            "get_star_ts": "1543756625"
+          },
+          "1": {
+            "get_star_ts": "1543737578"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 353
+    },
+    "47556": {
+      "name": "Enid Gjoleka",
+      "stars": 0,
+      "id": "47556",
+      "last_star_ts": 0,
+      "local_score": 0,
+      "global_score": 0,
+      "completion_day_level": {}
+    },
+    "440244": {
+      "name": "Hazar Kamar",
+      "stars": 0,
+      "last_star_ts": 0,
+      "id": "440244",
+      "completion_day_level": {},
+      "global_score": 0,
+      "local_score": 0
+    },
+    "370611": {
+      "completion_day_level": {
+        "3": {
+          "1": {
+            "get_star_ts": "1543866692"
+          },
+          "2": {
+            "get_star_ts": "1543892598"
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": "1544010764"
+          },
+          "2": {
+            "get_star_ts": "1544012728"
+          }
+        },
+        "6": {
+          "2": {
+            "get_star_ts": "1544082399"
+          },
+          "1": {
+            "get_star_ts": "1544081993"
+          }
+        },
+        "1": {
+          "1": {
+            "get_star_ts": "1543690798"
+          },
+          "2": {
+            "get_star_ts": "1543693127"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1543788968"
+          },
+          "2": {
+            "get_star_ts": "1543790815"
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": "1543904322"
+          },
+          "2": {
+            "get_star_ts": "1543904634"
+          }
+        }
+      },
+      "global_score": 0,
+      "local_score": 408,
+      "last_star_ts": "1544082399",
+      "id": "370611",
+      "name": "Winner Crespo",
+      "stars": 12
+    }
+  },
+  "event": "2018",
+  "owner_id": "12900"
+}
